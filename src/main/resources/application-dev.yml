@@ -1,0 +1,6 @@
+app:
+  name: Prueba NT
+  description: Esta es una app para pruebas
+
+server:
+  port: 8081
